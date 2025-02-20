@@ -1,0 +1,6 @@
+[submodule "snewpy"]
+	path = snewpy
+	url = https://github.com/SNEWS2/snewpy.git
+[submodule "snowglobes"]
+	path = snowglobes
+	url = https://github.com/SNOwGLoBES/snowglobes

@@ -1,0 +1,56 @@
+libglobes_la-glb_compat.lo: glb_compat.c ../config.h ../globes/globes.h \
+ /gpfs/gibbs/project/heeger/egp28/conda_envs/ROOT6/x86_64-conda-linux-gnu/sysroot/usr/include/stdio.h \
+ /gpfs/gibbs/project/heeger/egp28/conda_envs/ROOT6/x86_64-conda-linux-gnu/sysroot/usr/include/features.h \
+ /gpfs/gibbs/project/heeger/egp28/conda_envs/ROOT6/x86_64-conda-linux-gnu/sysroot/usr/include/sys/cdefs.h \
+ /gpfs/gibbs/project/heeger/egp28/conda_envs/ROOT6/x86_64-conda-linux-gnu/sysroot/usr/include/bits/wordsize.h \
+ /gpfs/gibbs/project/heeger/egp28/conda_envs/ROOT6/x86_64-conda-linux-gnu/sysroot/usr/include/gnu/stubs.h \
+ /gpfs/gibbs/project/heeger/egp28/conda_envs/ROOT6/x86_64-conda-linux-gnu/sysroot/usr/include/gnu/stubs-64.h \
+ /gpfs/gibbs/project/heeger/egp28/conda_envs/ROOT6/lib/gcc/x86_64-conda-linux-gnu/9.3.0/include/stddef.h \
+ /gpfs/gibbs/project/heeger/egp28/conda_envs/ROOT6/x86_64-conda-linux-gnu/sysroot/usr/include/bits/types.h \
+ /gpfs/gibbs/project/heeger/egp28/conda_envs/ROOT6/x86_64-conda-linux-gnu/sysroot/usr/include/bits/typesizes.h \
+ /gpfs/gibbs/project/heeger/egp28/conda_envs/ROOT6/x86_64-conda-linux-gnu/sysroot/usr/include/libio.h \
+ /gpfs/gibbs/project/heeger/egp28/conda_envs/ROOT6/x86_64-conda-linux-gnu/sysroot/usr/include/_G_config.h \
+ /gpfs/gibbs/project/heeger/egp28/conda_envs/ROOT6/x86_64-conda-linux-gnu/sysroot/usr/include/wchar.h \
+ /gpfs/gibbs/project/heeger/egp28/conda_envs/ROOT6/lib/gcc/x86_64-conda-linux-gnu/9.3.0/include/stdarg.h \
+ /gpfs/gibbs/project/heeger/egp28/conda_envs/ROOT6/x86_64-conda-linux-gnu/sysroot/usr/include/bits/stdio_lim.h \
+ /gpfs/gibbs/project/heeger/egp28/conda_envs/ROOT6/x86_64-conda-linux-gnu/sysroot/usr/include/bits/sys_errlist.h \
+ /gpfs/gibbs/project/heeger/egp28/conda_envs/ROOT6/x86_64-conda-linux-gnu/sysroot/usr/include/bits/stdio.h \
+ /gpfs/gibbs/project/heeger/egp28/conda_envs/ROOT6/x86_64-conda-linux-gnu/sysroot/usr/include/bits/stdio2.h
+
+../config.h:
+
+../globes/globes.h:
+
+/gpfs/gibbs/project/heeger/egp28/conda_envs/ROOT6/x86_64-conda-linux-gnu/sysroot/usr/include/stdio.h:
+
+/gpfs/gibbs/project/heeger/egp28/conda_envs/ROOT6/x86_64-conda-linux-gnu/sysroot/usr/include/features.h:
+
+/gpfs/gibbs/project/heeger/egp28/conda_envs/ROOT6/x86_64-conda-linux-gnu/sysroot/usr/include/sys/cdefs.h:
+
+/gpfs/gibbs/project/heeger/egp28/conda_envs/ROOT6/x86_64-conda-linux-gnu/sysroot/usr/include/bits/wordsize.h:
+
+/gpfs/gibbs/project/heeger/egp28/conda_envs/ROOT6/x86_64-conda-linux-gnu/sysroot/usr/include/gnu/stubs.h:
+
+/gpfs/gibbs/project/heeger/egp28/conda_envs/ROOT6/x86_64-conda-linux-gnu/sysroot/usr/include/gnu/stubs-64.h:
+
+/gpfs/gibbs/project/heeger/egp28/conda_envs/ROOT6/lib/gcc/x86_64-conda-linux-gnu/9.3.0/include/stddef.h:
+
+/gpfs/gibbs/project/heeger/egp28/conda_envs/ROOT6/x86_64-conda-linux-gnu/sysroot/usr/include/bits/types.h:
+
+/gpfs/gibbs/project/heeger/egp28/conda_envs/ROOT6/x86_64-conda-linux-gnu/sysroot/usr/include/bits/typesizes.h:
+
+/gpfs/gibbs/project/heeger/egp28/conda_envs/ROOT6/x86_64-conda-linux-gnu/sysroot/usr/include/libio.h:
+
+/gpfs/gibbs/project/heeger/egp28/conda_envs/ROOT6/x86_64-conda-linux-gnu/sysroot/usr/include/_G_config.h:
+
+/gpfs/gibbs/project/heeger/egp28/conda_envs/ROOT6/x86_64-conda-linux-gnu/sysroot/usr/include/wchar.h:
+
+/gpfs/gibbs/project/heeger/egp28/conda_envs/ROOT6/lib/gcc/x86_64-conda-linux-gnu/9.3.0/include/stdarg.h:
+
+/gpfs/gibbs/project/heeger/egp28/conda_envs/ROOT6/x86_64-conda-linux-gnu/sysroot/usr/include/bits/stdio_lim.h:
+
+/gpfs/gibbs/project/heeger/egp28/conda_envs/ROOT6/x86_64-conda-linux-gnu/sysroot/usr/include/bits/sys_errlist.h:
+
+/gpfs/gibbs/project/heeger/egp28/conda_envs/ROOT6/x86_64-conda-linux-gnu/sysroot/usr/include/bits/stdio.h:
+
+/gpfs/gibbs/project/heeger/egp28/conda_envs/ROOT6/x86_64-conda-linux-gnu/sysroot/usr/include/bits/stdio2.h:
